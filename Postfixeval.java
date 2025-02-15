@@ -98,6 +98,6 @@ public class Postfixeval
         if(res!=-1)
         System.out.println("Result:" +res);
        else
-       System.out.println("Invlalid Postfix String");
+       System.out.println("Invalid Postfix String");
     }
 }
